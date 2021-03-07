@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2158.0, 357.0, 1440.0, 687.0 ],
+		"rect" : [ 1425.0, 677.0, 1440.0, 687.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,7 +46,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1296.0, 588.0, 122.0, 33.0 ],
-					"presentation_linecount" : 3,
 					"text" : "second matched message."
 				}
 
